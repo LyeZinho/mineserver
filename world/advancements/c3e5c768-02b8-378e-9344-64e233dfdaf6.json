@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:meadow": "2022-03-10 04:23:05 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
